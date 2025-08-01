@@ -1,4 +1,4 @@
-module papergo
+module github.com/jsierp/papergo
 
 go 1.24.5
 
